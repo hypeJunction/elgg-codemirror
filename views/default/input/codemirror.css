@@ -1,0 +1,9 @@
+.CodeMirror {
+	font-size: 90%;
+	font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	border: 1px solid #dcdcdc;
+	border-radius: 4px;
+	width: 1000px;
+	max-width: calc(100vw - 60px);
+	height: auto;
+}
